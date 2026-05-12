@@ -1,0 +1,4 @@
+requests>=2.31.0
+yt-dlp>=2025.1.1
+flask>=3.0.0
+instaloader>=4.10.0
